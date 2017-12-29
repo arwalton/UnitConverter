@@ -1,0 +1,44 @@
+Attometer
+Barleycorn
+Centimeter
+Cubit
+Decameter
+Decimeter
+Exameter
+Femtometer
+Foot
+Furlong
+Gigameter
+Hand
+Hectometer
+Horse Length
+Inch
+Kilometer
+League
+Light-nanosecond
+Light-year
+Lunar Distance
+Megameter
+Meter
+Metric Foot
+Micrometer
+Mile
+Millimeter
+Nanometer
+Nautical Mile
+Parsec
+Peninkulma
+Petameter
+Picometer
+Poronkusema
+Rack Unit
+Siriometer
+Smoot
+Terameter
+Verst(Finnish)
+Versta(Russian)
+Yard
+Yoctometer
+Yottameter
+Zeptometer
+Zettameter
