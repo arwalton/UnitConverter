@@ -5,6 +5,9 @@
  <body>
  <form action = "calculateUnits.php" method = "get">
   <p>
+  Amount? <input type="text" name="amount"/>
+  </p>
+  <p>
   What unit are you starting with?
   <select name = "fromUnit">
 	<option value = "">Select...</option>
@@ -58,7 +61,7 @@
   What unit are you going to?
   <select name = "toUnit">
 	<option value = "">Select...</option>
-	<option value = "Attometer">Select...</option>
+	<option value = "Attometer">Attometer</option>
 	<option value = "Barleycorn">Barleycorn</option>
 	<option value = "Centimeter">Centimeter</option>
 	<option value = "Cubit">Cubit</option>
